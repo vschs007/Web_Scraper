@@ -11,7 +11,8 @@ A Script to list Top IMDb movies
 
 #How to use
 
-   1. Just copy this code in your ide ( sublime text in case of mine)
+1. Clone the repo git clone https://github.com/vschs007/Web_Scraper
 
-   2.execute it.
+2. cd .\Web_Scraper
 
+3. python imdb.py
