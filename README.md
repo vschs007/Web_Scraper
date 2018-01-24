@@ -11,7 +11,10 @@ A Script to list Top IMDb movies
 
 #How to use
 
-1. Clone the repo git clone https://github.com/vschs007/Web_Scraper
+ Execute the following commands in sequence in your gitshell
+ 
+ 
+1. git clone https://github.com/vschs007/Web_Scraper
 
 2. cd .\Web_Scraper
 
