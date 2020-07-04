@@ -19,3 +19,6 @@ A Script to list Top IMDb movies
 2. cd .\Web_Scraper
 
 3. python imdb.py
+
+
+note: replace the parser to "html.parser"
